@@ -53,7 +53,7 @@ max_iters = 5000
 
 ![image](https://github.com/user-attachments/assets/55c5219a-c577-4fae-bd90-1b73a420e137)
 
-## 🏋️ Training
+##  Training
 The model is trained to minimize cross-entropy loss by predicting the next character in a sequence.
 
 • Training Loop
